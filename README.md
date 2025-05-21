@@ -1,6 +1,8 @@
 # ChromeCast-media-player
 media player 4 ChromeCast
 
+![ScreenShot](./image.png)
+
 # Salut....
 originally, it was a React project!
 
