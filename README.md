@@ -3,7 +3,7 @@ media player 4 ChromeCast
 
 ![ScreenShot](./image.png)
 
-# Salut....
+# Salut.....
 originally, it was a React project!
 
 # 4 the react version
